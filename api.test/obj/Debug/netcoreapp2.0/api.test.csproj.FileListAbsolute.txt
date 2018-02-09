@@ -1,0 +1,16 @@
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\bin\Debug\netcoreapp2.0\api.test.deps.json
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\bin\Debug\netcoreapp2.0\api.test.runtimeconfig.json
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\bin\Debug\netcoreapp2.0\api.test.runtimeconfig.dev.json
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\bin\Debug\netcoreapp2.0\api.test.dll
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\bin\Debug\netcoreapp2.0\api.test.pdb
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\bin\Debug\netcoreapp2.0\api.dll
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\bin\Debug\netcoreapp2.0\api.pdb
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\obj\Debug\netcoreapp2.0\api.test.csprojResolveAssemblyReference.cache
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\obj\Debug\netcoreapp2.0\api.test.csproj.CoreCompileInputs.cache
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\obj\Debug\netcoreapp2.0\api.test.AssemblyInfoInputs.cache
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\obj\Debug\netcoreapp2.0\api.test.AssemblyInfo.cs
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\obj\Debug\netcoreapp2.0\api.test.dll
+G:\Front-End\_React\SmartSystemsSunWing4\api.test\obj\Debug\netcoreapp2.0\api.test.pdb

@@ -1,0 +1,11 @@
+G:\Front-End\_React\SmartSystemsSunWing5\api\bin\Debug\netcoreapp2.0\SmartSystems.deps.json
+G:\Front-End\_React\SmartSystemsSunWing5\api\bin\Debug\netcoreapp2.0\SmartSystems.runtimeconfig.json
+G:\Front-End\_React\SmartSystemsSunWing5\api\bin\Debug\netcoreapp2.0\SmartSystems.runtimeconfig.dev.json
+G:\Front-End\_React\SmartSystemsSunWing5\api\bin\Debug\netcoreapp2.0\SmartSystems.dll
+G:\Front-End\_React\SmartSystemsSunWing5\api\bin\Debug\netcoreapp2.0\SmartSystems.pdb
+G:\Front-End\_React\SmartSystemsSunWing5\api\obj\Debug\netcoreapp2.0\SmartSystems.csprojResolveAssemblyReference.cache
+G:\Front-End\_React\SmartSystemsSunWing5\api\obj\Debug\netcoreapp2.0\SmartSystems.csproj.CoreCompileInputs.cache
+G:\Front-End\_React\SmartSystemsSunWing5\api\obj\Debug\netcoreapp2.0\SmartSystems.AssemblyInfoInputs.cache
+G:\Front-End\_React\SmartSystemsSunWing5\api\obj\Debug\netcoreapp2.0\SmartSystems.AssemblyInfo.cs
+G:\Front-End\_React\SmartSystemsSunWing5\api\obj\Debug\netcoreapp2.0\SmartSystems.dll
+G:\Front-End\_React\SmartSystemsSunWing5\api\obj\Debug\netcoreapp2.0\SmartSystems.pdb
